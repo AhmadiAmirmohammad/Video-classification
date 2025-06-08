@@ -1,6 +1,4 @@
-# Save the second README content to a Markdown file
-
-video_readme_content = """# Video Classification on UCF50 Dataset using Keras
+# Video Classification on UCF50 Dataset using Keras
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amir925/Video-classification/blob/main/Video_classification_On_UCF50_.ipynb)
 
